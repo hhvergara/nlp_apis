@@ -13,6 +13,7 @@ This repository contains all the work exercises for the subject "Natural Languag
 ## 📂 Available files:
 
 - [**🗋 API1.ipynb**](https://github.com/hhvergara/nlp_apis/blob/main/API1.ipynb)
+- [**🗋 API2.ipynb**](https://github.com/hhvergara/nlp_apis/blob/main/API2.ipynb)
 
 ---
 
